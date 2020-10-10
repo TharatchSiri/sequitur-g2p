@@ -3,14 +3,14 @@
 กกก k @@0 z^ k @@0 z^ k @@0 z^
 กกกแปดร้อย k @@0 z^ k @@0 z^ k @@0 z^ p xx1 t^ r @@3 j^
 กกพสาม k @@0 z^ k @@0 z^ ph @@0 z^ s aa4 m^
-กกพสามร้อยแปด k @@0 z^ k @@0 z^ ph @@0 z^ s aa4 m^ r @@3 j^ p xx1 t^
+กกพสามร้อยแปด k @@0 z^ k @@0 z^ ph @@0 z^ s aa3 m^ r @@3 j^ p xx1 t^
 กกหูมีรอย k o1 k^ h uu4 z^ m ii0 z^ r @@0 j^
 กง k o0 ng^
-กงล้อ k o0 ng^ l @@3 z^
-กงสุล k o0 ng^ s u4 n^
+กงล้อ k o0 ng^ l @@2 z^
+กงสุล k o0 ng^ s u3 n^
 กงสุลใหญ่ k o0 ng^ s u4 n^ j a1 j^
-กงเหย k o0 ng^ h qq4 j^
-กงเหยฝัดฉ่อย k o0 ng^ h ee4 j^ f a1 t^ ch @@1 j^
+กงเหย k o0 ng^ h qq3 j^
+กงเหยฝัดฉ่อย k o0 ng^ h ee4 j^ f a1 t^ ch @@2 j^
 กฉา k a1 z^ ch aa4 z^
 กฎ k o1 t^
 กฎกติกาขั้นตอน k o1 t^ k a1 z^ t i1 z^ k aa0 z^ kh a2 n^ t @@0 n^
