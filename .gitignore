@@ -9,3 +9,10 @@ tmp-test-install/
 dist/
 tests/002/cmudict-0.7b
 .idea/
+g2p_model/
+test_log/
+g2p_dict/dic_g2p_th_v0.1.0.txt
+g2p_dict/dic_g2p_th_v0.2.0.txt
+g2p_dict/dic_g2p_th_v0.2.1.txt
+g2p_dict/dic_g2p_th_v0.2.2.txt
+g2p_dict/dic_g2p_th_v0.3.0.txt
